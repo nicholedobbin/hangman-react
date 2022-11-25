@@ -1,0 +1,137 @@
+/* ---------- BODY ---------- */
+Body {
+  text-align: center;
+  
+}
+
+.sectionDivider {
+  width: 75%;
+  border-top: 3px solid darkcyan;
+  border-radius: 5px;
+  margin: auto;
+}
+
+/* ---------- HEADER SECTION ---------- */
+/* Set header container main colour, font weight and family. */
+.headerContainer {
+  color: darkcyan;
+  font-weight: bold;
+  font-family: monospace, 'Courier New', Courier !important;
+}
+
+/* Set header container h3 colour */
+.headerContainer h3{
+  color:darkorange;
+}
+
+
+/* ---------- GAME SECTION (HANGMAN FIGURE) ---------- */
+/* Style game container */
+.gameContainer {
+  display: flex;
+  padding-bottom: 30px;
+}
+
+/* Style hangman figure container */
+.hangmanFigure {
+  height: 400px;
+}
+
+/* ---------- GAME SECTION (WORDS/LETTERS DISPLAY) ---------- */
+/* Set font family */
+.gameContainer {
+ font-family: monospace, 'Courier New', Courier;
+}
+
+/* Center winLoseSection */
+.winLoseSection {
+  text-align: center;
+}
+
+/* Style win/lose message font weight and colour */
+.winLoseHeading {
+  color: darkorange;
+  font-weight: bold;
+}
+
+/* Set font size for used letters display */
+.usedLettersSection {
+  font-size: 18px;
+}
+
+/* ---------- BUTTONS ---------- */
+/* Style keyboard buttons */
+.keyboardButtons {
+  background-color: darkcyan !important;
+  border-color: darkcyan !important;
+}
+
+ /* Style restart button */
+.restartButton {
+  background-color: darkorange !important;
+  border-color: darkorange !important;
+  font-family: monospace, 'Courier New', Courier !important;
+  font-size: 30px!important;
+}
+
+ /* Style help button */
+ .helpButton {
+  background-color: darkorange !important;
+  border-color: darkorange !important;
+  font-family: monospace, 'Courier New', Courier !important;
+  font-size: 20px!important;
+}
+
+/* ---------- FOOTER SECTION ---------- */
+/* Center footer and style text and anchor colours. */
+
+.footerSection p {
+  color: lightslategray;
+}
+
+.footerSection a {
+  color: darkcyan;
+}
+
+.footerSection a:hover {
+  color: darkorange;
+}
+
+#myMenu {
+  background-color: #fff6eb!important;
+}
+
+/* .App-logo {
+  height: 40vmin;
+  pointer-events: none;
+} */
+
+/* @media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+} */
+
+/* .App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+} */
+
+/* .App-link {
+  color: #61dafb;
+} */
+
+/* @keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
