@@ -12,9 +12,9 @@ export default function Footer() {
         <div className="footerSection text-center">
             <p className="py-3">
                Made by
-               &nbsp;<a href="https://github.com/nicholedobbin" target="blank">Nichole</a>&nbsp;
+               &nbsp;<a href="https://github.com/nicholedobbin" target="_blank" rel="noreferrer">Nichole</a>&nbsp;
                with
-               &nbsp;<a href="https://github.com/facebook/create-react-app" target="blank">Create React App</a> 
+               &nbsp;<a href="https://github.com/facebook/create-react-app" target="_blank" rel="noreferrer">Create React App</a> 
                .
             </p>
         </div>
