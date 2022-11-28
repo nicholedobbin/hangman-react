@@ -1,7 +1,7 @@
 # **IFS L4T21 - Capstone Project III: Create a React app for a Hangman Game**
 
 ## **Description**
-This a React app for the game Hangman, created with [Create React App](https://github.com/facebook/create-react-app) and styled with [React Bootstrap](https://react-bootstrap.github.io/). The description of how to play and each component's functionality are as follows:
+This a React app for the game Hangman, created with [Create React App](https://github.com/facebook/create-react-app) and styled with [React Bootstrap](https://react-bootstrap.github.io/). The description of how to play and each component's functionality are below.
 
 <br>
 
@@ -11,6 +11,9 @@ Hangman is a word guessing game. The game displays a hidden word in the form of 
 Each time you click on a letter, it will be displayed in the "Used letters" section of the screen, so you can keep track of the letters you clicked on. If you choose a correct letter, it will be revealed in the hidden word ( e.g.: `_ e l l _` ). If you choose an incorrect letter, the hanging man will be drawn line by line in the display. When the hangman is completely drawn, you lose the game.
 
 You have 10 lives to play before the hangman runs out of limbs! (Dont worry, you can restart the game at any point by clicking the restart button).
+
+#### **Play with Netlify** 
+Netlify app: [https://hangman-react-capstone.netlify.app/](https://hangman-react-capstone.netlify.app/)
 
 <br>
 
