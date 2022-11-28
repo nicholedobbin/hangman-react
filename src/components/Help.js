@@ -6,7 +6,7 @@ and a button that links back to the game/home page.
 ---------------------------------------------------------------------------------------------------------------------- */
 
 import React from 'react';
-import { Routes, Route, Link} from 'react-router-dom';
+import {Link} from 'react-router-dom';
 
 export default function Help() {
   return (
