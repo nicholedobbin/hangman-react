@@ -12,6 +12,9 @@ Each time you click on a letter, it will be displayed in the "Used letters" sect
 
 You have 10 lives to play before the hangman runs out of limbs! (Dont worry, you can restart the game at any point by clicking the restart button).
 
+### **What does it look like?** 
+![Hangman game made with React](markdown/React%20Hangman%20game.png)
+
 #### **Play with Netlify** 
 Netlify app: [https://hangman-react-capstone.netlify.app/](https://hangman-react-capstone.netlify.app/)
 
